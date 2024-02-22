@@ -1,3 +1,4 @@
 # sam-repo
-This is my repository
+This is my git repository
+<br>
 Author - sam
